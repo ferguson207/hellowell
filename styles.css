@@ -47,8 +47,6 @@ text-decoration: none;
 margin: 0 10px;
 
 }
-
-
 nav a:hover {
 
 text-decoration: underline;
@@ -74,5 +72,22 @@ height: auto;
 display: block;
 
 margin: 20px 0;
+
+}
+footer {
+
+background-color: #333;
+
+color: white;
+
+text-align: center;
+
+padding: 10px;
+
+position: fixed;
+
+bottom: 0;
+
+width: 100%;
 
 }
